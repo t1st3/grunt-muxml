@@ -41,6 +41,7 @@
     "coveralls": "^2.11.9",
     "grunt": "^1.0.1",
     "mocha": "^3.0.1",
+    "mocha-lcov-reporter": "^1.2.0",
     "nyc": "^7.1.0",
     "xo": "^0.16.0"
   },
