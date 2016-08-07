@@ -25,7 +25,7 @@
   "scripts": {
     "pretest": "xo tasks/*.js test.js",
     "test": "grunt && mocha",
-    "coverage": "nyc --reporter=lcov --reporter=text-lcov mocha",
+    "coverage": "grunt && nyc --reporter=lcov --reporter=text-lcov mocha",
     "precoveralls": "npm run coverage",
     "coveralls": "cat coverage/lcov.info | ./node_modules/.bin/coveralls"
   },
