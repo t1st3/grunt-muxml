@@ -15,7 +15,7 @@ $ npm install --save-dev grunt-muxml
 ```js
 module.exports = function (grunt) {
 	grunt.initConfig({
-		'muxml': {
+		muxml: {
 			dist: {
 				files: [{
 					expand: false,
@@ -30,7 +30,7 @@ module.exports = function (grunt) {
 		}
 	});
 
-	grunt.loadTasks('tasks');
+	grunt.loadNpmTasks('grunt-muxml');
 
 	grunt.registerTask('default', [
 		'muxml'
