@@ -1,6 +1,10 @@
 # grunt-muxml [![Build Status Travis](https://travis-ci.org/t1st3/grunt-muxml.svg?branch=master)](https://travis-ci.org/t1st3/grunt-muxml) [![Coverage Status](https://coveralls.io/repos/github/t1st3/grunt-muxml/badge.svg?branch=master)](https://coveralls.io/github/t1st3/grunt-muxml?branch=master)
 
-> An XML parsing and formatting plugin for Grunt
+> An XML parsing and formatting plugin for [`Grunt`](http://gruntjs.com/)
+
+Thin wrapper around [`muxml`](https://github.com/t1st3/muxml) to make it a Grunt plugin.
+
+Also available as a [gulp](https://github.com/t1st3/gulp-muxml) / [Broccoli](https://github.com/t1st3/broccoli-muxml) plugin.
 
 
 ## Install
@@ -13,6 +17,7 @@ $ npm install --save-dev grunt-muxml
 ## Usage
 
 ```js
+'use strict';
 module.exports = function (grunt) {
 	grunt.initConfig({
 		muxml: {
@@ -49,6 +54,7 @@ See [`muxml`'s options](https://github.com/t1st3/muxml#options), which are all s
 * [muxml](https://github.com/t1st3/muxml) | API for muxml
 * [muxml-cli](https://github.com/t1st3/muxml-cli) | CLI for muxml
 * [gulp-muxml](https://github.com/t1st3/gulp-muxml) | muxml as a [`gulp`](http://gulpjs.com/) plugin
+* [broccoli-muxml](https://github.com/t1st3/broccoli-muxml) | this module as a [`Broccoli`](http://broccolijs.com/) plugin
 
 
 ## License
