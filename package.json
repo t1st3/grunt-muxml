@@ -14,7 +14,12 @@
     "node": ">=0.10.0"
   },
   "scripts": {
+<<<<<<< HEAD
     "test": "xo tasks/*.js test.js && grunt && mocha",
+=======
+    "pretest": "xo tasks/*.js test.js",
+    "test": "grunt && mocha",
+>>>>>>> c85c8bf2a3655e3929fd905717d8a97644ec5715
     "coverage": "grunt && nyc --reporter=lcov --reporter=text-lcov mocha",
     "precoveralls": "npm run coverage",
     "coveralls": "cat coverage/lcov.info | ./node_modules/.bin/coveralls"
@@ -39,7 +44,11 @@
   "devDependencies": {
     "coveralls": "^2.11.9",
     "grunt": "^1.0.1",
+<<<<<<< HEAD
     "mocha": "^3.0.2",
+=======
+    "mocha": "^3.0.1",
+>>>>>>> c85c8bf2a3655e3929fd905717d8a97644ec5715
     "mocha-lcov-reporter": "^1.2.0",
     "nyc": "^7.1.0",
     "xo": "*"
