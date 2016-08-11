@@ -4,21 +4,12 @@
   "description": "An XML parsing and formatting plugin for Grunt",
   "license": "MIT",
   "repository": "t1st3/grunt-muxml",
-  "keywords": [
-    "gruntplugin",
-    "xml",
-    "parse",
-    "format",
-    "minify",
-    "prettify",
-    "strip",
-    "filter"
-  ],
   "author": {
     "name": "t1st3",
     "email": "contact@tiste.org",
     "url": "tiste.org"
   },
+  "main": "tasks/muxml.js",
   "engines": {
     "node": ">=0.10.0"
   },
@@ -28,9 +19,18 @@
     "precoveralls": "npm run coverage",
     "coveralls": "cat coverage/lcov.info | ./node_modules/.bin/coveralls"
   },
-  "main": "tasks/muxml.js",
   "files": [
     "tasks"
+  ],
+  "keywords": [
+    "gruntplugin",
+    "xml",
+    "parse",
+    "format",
+    "minify",
+    "prettify",
+    "strip",
+    "filter"
   ],
   "dependencies": {
     "concat-stream": "^1.5.1",
@@ -43,6 +43,11 @@
     "mocha-lcov-reporter": "^1.2.0",
     "nyc": "^7.1.0",
     "xo": "*"
+  },
+  "clinton": {
+    "rules": {
+      "ava": false
+    }
   },
   "nyc": {
     "reporter": [
