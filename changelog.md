@@ -1,6 +1,12 @@
 ## Change Log
 
+### 0.1.3 (2016/09/21 10:14 +00:00)
+- [d54db98](https://github.com/t1st3/grunt-muxml/commit/d54db9897d2414e6403c14f499005ff982cd01c8) chore(package): bump deps (@t1st3)
+- [#4](https://github.com/t1st3/grunt-muxml/pull/4) Update nyc to version 8.1.0 🚀 (@t1st3)
+- [654deb3](https://github.com/t1st3/grunt-muxml/commit/654deb34dfa44d09ee7aeac54d6730f928942e13) chore(package): update nyc to version 8.1.0 (@greenkeeperio-bot)
+
 ### 0.1.2 (2016/08/11 12:34 +00:00)
+- [cee5ac7](https://github.com/t1st3/grunt-muxml/commit/cee5ac72cd69fc9518c4d73ad8afd766f78424ed) chore: v0.1.2 (@t1st3)
 - [dbd3de5](https://github.com/t1st3/grunt-muxml/commit/dbd3de57a4c1c8a1e344821fe634e43ae97eaf96) fix: merge log in package.json / fix coverage (@t1st3)
 - [04d18d9](https://github.com/t1st3/grunt-muxml/commit/04d18d9dfa2fb38f7cbbbd828a5278ec37005893) * 'master' of github.com:t1st3/grunt-muxml:   chore(package): update muxml to version 0.2.0   fix: coverage when run on Travis   fix: coverage when run on Travis  Conflicts: 	package.json (@t1st3)
 - [3ed43a6](https://github.com/t1st3/grunt-muxml/commit/3ed43a69a4565ff6014eed51c8e83f776efec63a) chore: lint project with clinton (@t1st3)
