@@ -33,15 +33,15 @@
     "filter"
   ],
   "dependencies": {
-    "concat-stream": "^1.5.1",
-    "muxml": "^0.2.0"
+    "concat-stream": "^1.5.2",
+    "muxml": "^0.2.2"
   },
   "devDependencies": {
-    "coveralls": "^2.11.9",
+    "coveralls": "^2.11.14",
     "grunt": "^1.0.1",
     "mocha": "^3.0.2",
     "mocha-lcov-reporter": "^1.2.0",
-    "nyc": "^8.1.0",
+    "nyc": "^8.3.0",
     "xo": "*"
   },
   "clinton": {
