@@ -1,6 +1,11 @@
 ## Change Log
 
-### 0.1.3 (2016/09/21 10:14 +00:00)
+### 0.1.4 (2016/10/13 18:53 +00:00)
+- [6c3277f](https://github.com/t1st3/grunt-muxml/commit/6c3277fefb0179c57f4ebf5da53eec72abd66844) chore: bump muxml to 0.2.3 (@t1st3)
+- [868168c](https://github.com/t1st3/grunt-muxml/commit/868168c0a026634b4ec5f94768d813aca66e0b18) chore: drop support for Node.js 0.10 and 0.12 (@t1st3)
+
+### 0.1.3 (2016/09/21 10:15 +00:00)
+- [32924e7](https://github.com/t1st3/grunt-muxml/commit/32924e7f05e8ee5cbd1b7b22bc41916b3e416966) v0.1.3 (@t1st3)
 - [d54db98](https://github.com/t1st3/grunt-muxml/commit/d54db9897d2414e6403c14f499005ff982cd01c8) chore(package): bump deps (@t1st3)
 - [#4](https://github.com/t1st3/grunt-muxml/pull/4) Update nyc to version 8.1.0 🚀 (@t1st3)
 - [654deb3](https://github.com/t1st3/grunt-muxml/commit/654deb34dfa44d09ee7aeac54d6730f928942e13) chore(package): update nyc to version 8.1.0 (@greenkeeperio-bot)
