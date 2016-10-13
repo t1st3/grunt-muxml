@@ -34,7 +34,7 @@
   ],
   "dependencies": {
     "concat-stream": "^1.5.2",
-    "muxml": "^0.2.2"
+    "muxml": "^0.2.3"
   },
   "devDependencies": {
     "coveralls": "^2.11.14",
