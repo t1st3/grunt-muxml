@@ -4,7 +4,7 @@
 
 Thin wrapper around [`muxml`](https://github.com/t1st3/muxml) to make it a Grunt plugin.
 
-Also available as a [gulp](https://github.com/t1st3/gulp-muxml) / [Broccoli](https://github.com/t1st3/broccoli-muxml) plugin.
+Also available as a [gulp plugin](https://github.com/t1st3/gulp-muxml).
 
 
 ## Install
@@ -54,7 +54,6 @@ See [`muxml`'s options](https://github.com/t1st3/muxml#options), which are all s
 * [muxml](https://github.com/t1st3/muxml) | API for muxml
 * [muxml-cli](https://github.com/t1st3/muxml-cli) | CLI for muxml
 * [gulp-muxml](https://github.com/t1st3/gulp-muxml) | muxml as a [`gulp`](http://gulpjs.com/) plugin
-* [broccoli-muxml](https://github.com/t1st3/broccoli-muxml) | this module as a [`Broccoli`](http://broccolijs.com/) plugin
 
 
 ## License
