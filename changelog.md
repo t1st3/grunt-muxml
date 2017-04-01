@@ -1,6 +1,16 @@
 ## Change Log
 
-### 0.1.4 (2016/10/13 18:53 +00:00)
+### 0.1.5 (2017/04/01 13:12 +00:00)
+- [b767df8](https://github.com/t1st3/grunt-muxml/commit/b767df88bfe765d6e7bd359b0d6ac27ae3963a31) feat: es6ify (@t1st3)
+- [40d5d91](https://github.com/t1st3/grunt-muxml/commit/40d5d91788212d8d242477fb4021c3c488cc2529) chore(package): update xo to version 0.19.0 (@greenkeeperio-bot)
+- [#7](https://github.com/t1st3/grunt-muxml/pull/7) Update nyc to version 10.0.0 🚀 (@t1st3)
+- [3775f71](https://github.com/t1st3/grunt-muxml/commit/3775f71214537633b177f1d22fe208487e65dc89) chore(package): update nyc to version 10.0.0 (@greenkeeperio-bot)
+- [#6](https://github.com/t1st3/grunt-muxml/pull/6) Update nyc to version 9.0.1 🚀 (@t1st3)
+- [f7b8134](https://github.com/t1st3/grunt-muxml/commit/f7b8134b859d7a84c2810981052dfca64d184dc4) chore(package): update nyc to version 9.0.1 (@greenkeeperio-bot)
+- [8208de5](https://github.com/t1st3/grunt-muxml/commit/8208de51403f286d62268e456de84dbeebcf2a27) docs: broccoli plugin wont happen (@t1st3)
+
+### 0.1.4 (2016/10/13 18:56 +00:00)
+- [0f8a27b](https://github.com/t1st3/grunt-muxml/commit/0f8a27ba3cb6ca12cf97ccbb505d0a9668621e7d) chore: v0.1.4 (@t1st3)
 - [6c3277f](https://github.com/t1st3/grunt-muxml/commit/6c3277fefb0179c57f4ebf5da53eec72abd66844) chore: bump muxml to 0.2.3 (@t1st3)
 - [868168c](https://github.com/t1st3/grunt-muxml/commit/868168c0a026634b4ec5f94768d813aca66e0b18) chore: drop support for Node.js 0.10 and 0.12 (@t1st3)
 

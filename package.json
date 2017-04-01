@@ -1,6 +1,6 @@
 {
   "name": "grunt-muxml",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "An XML parsing and formatting plugin for Grunt",
   "license": "MIT",
   "repository": "t1st3/grunt-muxml",
