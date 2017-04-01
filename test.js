@@ -2,21 +2,21 @@
 
 'use strict';
 
-var strictEqual = require('assert').strictEqual;
-var grunt = require('grunt');
+const strictEqual = require('assert').strictEqual;
+const grunt = require('grunt');
 
-var tmp = 'tmp/';
-var fixtures = 'fixtures/';
+const tmp = 'tmp/';
+const fixtures = 'fixtures/';
 
-describe('grunt-muxml', function () {
-	var files = [
+describe('grunt-muxml', () => {
+	const files = [
 		''
 	];
 
-	files.forEach(function (file) {
-		it(file + 'initial.xml', function (done) {
-			var actual = grunt.file.read(tmp + file + 'initial.xml');
-			var expected = grunt.file.read(fixtures + file + 'expected.xml');
+	files.forEach(file => {
+		it(file + 'initial.xml', done => {
+			const actual = grunt.file.read(tmp + file + 'initial.xml');
+			const expected = grunt.file.read(fixtures + file + 'expected.xml');
 			strictEqual(actual, expected);
 			done();
 		});
