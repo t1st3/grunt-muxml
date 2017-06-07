@@ -1,5 +1,7 @@
 # grunt-muxml [![Build Status Travis](https://travis-ci.org/t1st3/grunt-muxml.svg?branch=master)](https://travis-ci.org/t1st3/grunt-muxml) [![Coverage Status](https://coveralls.io/repos/github/t1st3/grunt-muxml/badge.svg?branch=master)](https://coveralls.io/github/t1st3/grunt-muxml?branch=master)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/t1st3/grunt-muxml.svg)](https://greenkeeper.io/)
+
 > An XML parsing and formatting plugin for [`Grunt`](http://gruntjs.com/)
 
 Thin wrapper around [`muxml`](https://github.com/t1st3/muxml) to make it a Grunt plugin.
