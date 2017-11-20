@@ -1,4 +1,4 @@
-# grunt-muxml [![Build Status Travis](https://travis-ci.org/t1st3/grunt-muxml.svg?branch=master)](https://travis-ci.org/t1st3/grunt-muxml) [![Coverage Status](https://coveralls.io/repos/github/t1st3/grunt-muxml/badge.svg?branch=master)](https://coveralls.io/github/t1st3/grunt-muxml?branch=master)
+# grunt-muxml [![Build Status Travis](https://travis-ci.org/t1st3/grunt-muxml.svg?branch=master)](https://travis-ci.org/t1st3/grunt-muxml) [![Coverage Status](https://codecov.io/gh/t1st3/grunt-muxml/badge.svg?branch=master)](https://codecov.io/gh/t1st3/grunt-muxml?branch=master)
 
 > An XML parsing and formatting plugin for [`Grunt`](http://gruntjs.com/)
 
