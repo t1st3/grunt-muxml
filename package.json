@@ -11,7 +11,7 @@
   },
   "main": "tasks/muxml.js",
   "engines": {
-    "node": ">=4"
+    "node": ">=6"
   },
   "scripts": {
     "test": "xo tasks/*.js test.js && grunt && mocha",
