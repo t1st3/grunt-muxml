@@ -34,12 +34,12 @@
   ],
   "dependencies": {
     "concat-stream": "^2.0.0",
-    "muxml": "^1.0.0"
+    "muxml": "^2.0.1"
   },
   "devDependencies": {
     "codecov": "^3.0.1",
     "grunt": "^1.0.2",
-    "mocha": "^6.0.1",
+    "mocha": "^6.1.4",
     "mocha-lcov-reporter": "^1.2.0",
     "nyc": "^14.0.0",
     "xo": "^0.24.0"

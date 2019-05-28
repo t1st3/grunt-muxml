@@ -3,7 +3,7 @@
 const path = require('path');
 const fs = require('fs');
 const concatStream = require('concat-stream');
-const muxml = require('muxml').default;
+const muxml = require('muxml');
 
 module.exports = function (grunt) {
 	return grunt.registerMultiTask('muxml', 'Parses and formats XML files', function () {
